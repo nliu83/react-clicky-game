@@ -1,0 +1,42 @@
+.CharCard {
+    background: #fff;
+    border-radius: 2px;
+    height: 325px;
+    margin: 1rem;
+    position: relative;
+    width: 325px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .CharCard > .img-container {
+    height: 60%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+    font-family: "Montserrat", sans-serif;
+  }
+  .CharCard > .img-container > img {
+    width: 60%
+  }
+  
+  .CharCard > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .CharCard > .content > ul {
+    list-style-type: none;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .CharCard > .content > ul > li {
+    margin-top: 18px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  
+  
